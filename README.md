@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1F6FEB,100:7C3AED&height=220&section=header&text=Jonathan%20Santos&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20%7C%20DevOps%20%7C%20AI-Assisted%20Engineering&descAlignY=58&descSize=18" alt="Banner de Jonathan Santos"/>
+<img width="100%" src="https://raw.githubusercontent.com/Jonh1788/Jonh1788/main/assets/pixel-banner.svg" alt="Banner pixel art de Jonathan Santos"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Construindo+software+confi%C3%A1vel+e+escal%C3%A1vel;Full+Stack+%2B+DevOps+%2B+Intelig%C3%AAncia+Artificial;Transformando+ideias+em+produtos+digitais" alt="Apresentação animada"/>
