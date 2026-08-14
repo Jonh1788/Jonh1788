@@ -42,30 +42,58 @@ Sou **Engenheiro de Software Full Stack e DevOps**, focado em construir aplicaç
 
 ## ✨ Projetos em destaque
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/Jonh1788/ArquitetoHub">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jonh1788&repo=ArquitetoHub&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=7C3AED" alt="ArquitetoHub"/>
-</a>
-<a href="https://github.com/Jonh1788/Seraphine">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jonh1788&repo=Seraphine&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=7C3AED" alt="Seraphine"/>
-</a>
-<a href="https://github.com/Jonh1788/ThreeTreino">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jonh1788&repo=ThreeTreino&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=7C3AED" alt="ThreeTreino"/>
-</a>
+### 🏗️ [ArquitetoHub](https://github.com/Jonh1788/ArquitetoHub)
 
-</div>
+Projeto desenvolvido com foco em arquitetura e engenharia de software.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-7C3AED?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 [Seraphine](https://github.com/Jonh1788/Seraphine)
+
+Projeto em Python voltado a automação e experiências inteligentes.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/IA-aplicada-1F6FEB?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💪 [ThreeTreino](https://github.com/Jonh1788/ThreeTreino)
+
+Aplicação construída em JavaScript para explorar experiências digitais.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</td>
+<td width="50%" valign="top">
+
+### 📂 [Ver todos os projetos](https://github.com/Jonh1788?tab=repositories)
+
+Explore aplicações Full Stack, automações, estudos e experimentos com IA.
+
+![Repositories](https://img.shields.io/badge/reposit%C3%B3rios-50-181717?style=flat-square&logo=github)
+
+</td>
+</tr>
+</table>
 
 ## 📊 GitHub em números
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jonh1788&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=7C3AED&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonh1788&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=8" alt="Linguagens mais utilizadas"/>
-
-<br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=Jonh1788&theme=github-dark-blue&hide_border=true&background=0D1117&ring=7C3AED&fire=58A6FF&currStreakLabel=58A6FF" alt="Sequência de contribuições"/>
+![Repositórios](https://img.shields.io/badge/Reposit%C3%B3rios%20p%C3%BAblicos-50-1F6FEB?style=for-the-badge&logo=github)
+![Contribuições](https://img.shields.io/badge/Contribui%C3%A7%C3%B5es%20no%20ano-237-7C3AED?style=for-the-badge&logo=git)
+[![Seguidores](https://img.shields.io/github/followers/Jonh1788?style=for-the-badge&logo=github&label=Seguidores&color=2EA44F)](https://github.com/Jonh1788?tab=followers)
 
 </div>
 
