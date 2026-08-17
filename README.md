@@ -50,6 +50,8 @@ Sou **Engenheiro de Software Full Stack e DevOps**, focado em construir aplicaç
 
 Projeto desenvolvido com foco em arquitetura e engenharia de software.
 
+https://canteirohub.tech
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-7C3AED?style=flat-square)
 
